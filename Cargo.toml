@@ -1,0 +1,12 @@
+[package]
+name = "Modified_Newtonian_Physics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+array-init = "2.1.0"
+libm = "0.2.8"
+piston = "1.0.0"
+piston2d-graphics = "0.44.0"
+piston2d-opengl_graphics = "0.85.1"
+pistoncore-glutin_window = "0.72.0"
